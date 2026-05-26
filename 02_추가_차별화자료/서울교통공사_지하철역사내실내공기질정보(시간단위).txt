@@ -1,0 +1,6 @@
+서울교통공사_지하철역사내실내공기질정보(시간단위)
+
+	
+http://openapi.seoul.go.kr:8088/sample/xml/airPolutionInfo/1/5/
+
+<?xml version="1.0" encoding="UTF-8"?><airPolutionInfo><list_total_count>5</list_total_count><RESULT><CODE>INFO-000</CODE><MESSAGE>정상 처리되었습니다.</MESSAGE></RESULT><row><LINE>1</LINE><AREA_NM>청량리</AREA_NM><CHECKDATE>2026-05-26 21:26</CHECKDATE><PMq>31.16</PMq></row><row><LINE>1</LINE><AREA_NM>제기동</AREA_NM><CHECKDATE>2026-05-26 21:26</CHECKDATE><PMq>27.43</PMq></row><row><LINE>1</LINE><AREA_NM>신설동</AREA_NM><CHECKDATE>2026-05-26 21:26</CHECKDATE><PMq>36.05</PMq></row><row><LINE>1</LINE><AREA_NM>동묘앞</AREA_NM><CHECKDATE>2026-05-26 21:26</CHECKDATE><PMq>34.56</PMq></row><row><LINE>1</LINE><AREA_NM>동대문</AREA_NM><CHECKDATE>2026-05-26 21:26</CHECKDATE><PMq>62.96</PMq></row></airPolutionInfo>
